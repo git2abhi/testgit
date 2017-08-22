@@ -1,10 +1,10 @@
 package com.my.device;
 
-public class TestMain {
+public class DemoMain {
 	
 	public static void main(String[] args) {
 		
-		TestMain mainObject = new TestMain();
+		DemoMain mainObject = new DemoMain();
 		Device d = mainObject.getDevice(1234, "temp");
 		
 	}
