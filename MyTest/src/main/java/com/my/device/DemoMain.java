@@ -16,5 +16,10 @@ public class DemoMain {
 		d.setName(name);
 		return d;
 	}
+	
+	public int add(int a, int b)
+	{
+		return a + b;
+	}
 
 }
