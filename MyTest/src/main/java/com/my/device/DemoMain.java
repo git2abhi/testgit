@@ -26,5 +26,9 @@ public class DemoMain {
 	{
 		return a - b;
 	}
+	public int multi(int a, int b)
+	{
+		return a * b;
+	}
 
 }
