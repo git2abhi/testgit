@@ -17,5 +17,14 @@ public class TestMain {
 		
 	}
 	
+	@Test
+	public void testsub()
+	{
+		com.my.device.DemoMain td = new com.my.device.DemoMain();
+		int d = td.sub(1, 1);
+		Assert.assertEquals(0, d);
+		
+	}
+	
 
 }
