@@ -30,5 +30,9 @@ public class DemoMain {
 	{
 		return a * b;
 	}
+	public int clac(int a, int b)
+	{
+		return a + b ;
+	}
 
 }
